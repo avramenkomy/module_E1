@@ -2,7 +2,7 @@
 [![Travis][build-badge]][build]
 
 
-[build-badge]: https://img.shields.io/travis/avramenkomy/module_E1/master.png?style=flat-square
+[build-badge]: https://www.travis-ci.com/avramenkomy/module_E1.svg?branch=master
 [build]: https://www.travis-ci.com/github/avramenkomy/module_E1
 
 
