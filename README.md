@@ -1,4 +1,4 @@
-# basic_todo_list
+# the gallows
 [![Travis][build-badge]][build]
 
 
@@ -9,7 +9,7 @@
 Приложение виселица с интеграцией travis-ci
 
 Покрытие тестами: команда: coverage run --omit 'venv/*' -m pytest tests/tests.py && coverage report -m
-
+```
 Name                Stmts   Miss  Cover   Missing
 -------------------------------------------------
 tests\conftest.py       4      0   100%
@@ -17,4 +17,4 @@ tests\tests.py         30      0   100%
 the_gallows.py         74     49    34%   14, 17-19, 28-31, 47-124, 127
 -------------------------------------------------
 TOTAL                 108     49    55%
-  
+``` 
