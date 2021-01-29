@@ -8,7 +8,7 @@
 
 Приложение виселица с интеграцией travis-ci
 
-Покрытие тестами:
+Покрытие тестами: команда: coverage run --omit 'venv/*' -m pytest tests/tests.py && coverage report -m
 
 Name                Stmts   Miss  Cover   Missing
 -------------------------------------------------
